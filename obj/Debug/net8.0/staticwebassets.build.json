@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "aatRO3vZy5uJC6ed/vXHPIzxOZQHSxs35KtwTUadv5I=",
+  "Source": "EllasPlayground",
+  "BasePath": "_content/EllasPlayground",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EllasPlayground/wwwroot",
+      "Source": "EllasPlayground",
+      "ContentRoot": "/home/barthmalemew/Projects/EllasPlayground/wwwroot/",
+      "BasePath": "_content/EllasPlayground",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/barthmalemew/Projects/EllasPlayground/wwwroot/index.html",
+      "SourceId": "EllasPlayground",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/barthmalemew/Projects/EllasPlayground/wwwroot/",
+      "BasePath": "_content/EllasPlayground",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/barthmalemew/Projects/EllasPlayground/wwwroot/script.js",
+      "SourceId": "EllasPlayground",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/barthmalemew/Projects/EllasPlayground/wwwroot/",
+      "BasePath": "_content/EllasPlayground",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/script.js"
+    },
+    {
+      "Identity": "/home/barthmalemew/Projects/EllasPlayground/wwwroot/styles.css",
+      "SourceId": "EllasPlayground",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/barthmalemew/Projects/EllasPlayground/wwwroot/",
+      "BasePath": "_content/EllasPlayground",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/styles.css"
+    }
+  ]
+}
