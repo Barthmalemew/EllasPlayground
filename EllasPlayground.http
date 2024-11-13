@@ -1,0 +1,6 @@
+@EllasPlayground_HostAddress = http://localhost:5048
+
+GET {{EllasPlayground_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
